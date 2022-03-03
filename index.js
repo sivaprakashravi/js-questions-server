@@ -19,7 +19,6 @@ app.get(['/', '/:qid'], function (req, res) {
         })
     }
 });
-
-app.listen(3000, () => {
+app.listen(rocess.env.PORT || 3000, () => {
     console.log("App Running!!")
 });
