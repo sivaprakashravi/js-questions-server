@@ -1,0 +1,1718 @@
+[
+    {
+        "question": "What are the possible ways to create objects in JavaScript",
+        "link": "what-are-the-possible-ways-to-create-objects-in-javascript"
+    },
+    {
+        "question": "What is prototype chain",
+        "link": "what-is-a-prototype-chain"
+    },
+    {
+        "question": "What is the difference between Call, Apply and Bind",
+        "link": "what-is-the-difference-between-call-apply-and-bind"
+    },
+    {
+        "question": "What is JSON and its common operations",
+        "link": "what-is-json-and-its-common-operations"
+    },
+    {
+        "question": "What is the purpose of the array slice method",
+        "link": "what-is-the-purpose-of-the-array-slice-method"
+    },
+    {
+        "question": "What is the purpose of the array splice method",
+        "link": "what-is-the-purpose-of-the-array-splice-method"
+    },
+    {
+        "question": "What is the difference between slice and splice",
+        "link": "what-is-the-difference-between-slice-and-splice"
+    },
+    {
+        "question": "How do you compare Object and Map",
+        "link": "how-do-you-compare-object-and-map"
+    },
+    {
+        "question": "What is the difference between == and === operators",
+        "link": "what-is-the-difference-between--and--operators"
+    },
+    {
+        "question": "What are lambda or arrow functions",
+        "link": "what-are-lambda-or-arrow-functions"
+    },
+    {
+        "question": "What is a first class function",
+        "link": "what-is-a-first-class-function"
+    },
+    {
+        "question": "What is a first order function",
+        "link": "what-is-a-first-order-function"
+    },
+    {
+        "question": "What is a higher order function",
+        "link": "what-is-a-higher-order-function"
+    },
+    {
+        "question": "What is a unary function",
+        "link": "what-is-a-unary-function"
+    },
+    {
+        "question": "What is the currying function",
+        "link": "what-is-the-currying-function"
+    },
+    {
+        "question": "What is a pure function",
+        "link": "what-is-a-pure-function"
+    },
+    {
+        "question": "What is the purpose of the let keyword",
+        "link": "what-is-the-purpose-of-the-let-keyword"
+    },
+    {
+        "question": "What is the difference between let and var",
+        "link": "what-is-the-difference-between-let-and-var"
+    },
+    {
+        "question": "What is the reason to choose the name let as a keyword",
+        "link": "what-is-the-reason-to-choose-the-name-let-as-a-keyword"
+    },
+    {
+        "question": "How do you redeclare variables in switch block without an error",
+        "link": "how-do-you-redeclare-variables-in-switch-block-without-an-error"
+    },
+    {
+        "question": "What is the Temporal Dead Zone",
+        "link": "what-is-the-temporal-dead-zone"
+    },
+    {
+        "question": "What is IIFE(Immediately Invoked Function Expression)",
+        "link": "what-is-iifeimmediately-invoked-function-expression"
+    },
+    {
+        "question": "How do you decode or encode a URL in JavaScript?",
+        "link": "how-do-you-decode-or-encode-a-url-in-javascript"
+    },
+    {
+        "question": "What is memoization",
+        "link": "what-is-memoization"
+    },
+    {
+        "question": "What is Hoisting",
+        "link": "what-is-hoisting"
+    },
+    {
+        "question": "What are classes in ES6",
+        "link": "what-are-classes-in-es6"
+    },
+    {
+        "question": "What are closures",
+        "link": "what-are-closures"
+    },
+    {
+        "question": "What are modules",
+        "link": "what-are-modules"
+    },
+    {
+        "question": "Why do you need modules",
+        "link": "why-do-you-need-modules"
+    },
+    {
+        "question": "What is scope in javascript",
+        "link": "what-is-scope-in-javascript"
+    },
+    {
+        "question": "What is a service worker",
+        "link": "what-is-a-service-worker"
+    },
+    {
+        "question": "How do you manipulate DOM using a service worker",
+        "link": "how-do-you-manipulate-dom-using-a-service-worker"
+    },
+    {
+        "question": "How do you reuse information across service worker restarts",
+        "link": "how-do-you-reuse-information-across-service-worker-restarts"
+    },
+    {
+        "question": "What is IndexedDB",
+        "link": "what-is-indexeddb"
+    },
+    {
+        "question": "What is web storage",
+        "link": "what-is-web-storage"
+    },
+    {
+        "question": "What is a post message",
+        "link": "what-is-a-post-message"
+    },
+    {
+        "question": "What is a cookie",
+        "link": "what-is-a-cookie"
+    },
+    {
+        "question": "Why do you need a Cookie",
+        "link": "why-do-you-need-a-cookie"
+    },
+    {
+        "question": "What are the options in a cookie",
+        "link": "what-are-the-options-in-a-cookie"
+    },
+    {
+        "question": "How do you delete a cookie",
+        "link": "how-do-you-delete-a-cookie"
+    },
+    {
+        "question": "What are the differences between cookie, local storage and session storage",
+        "link": "What-are-the-differences-between-cookie-local-storage-and-session-storage"
+    },
+    {
+        "question": "What is the main difference between localStorage and sessionStorage",
+        "link": "what-is-the-main-difference-between-localstorage-and-sessionstorage"
+    },
+    {
+        "question": "How do you access web storage",
+        "link": "how-do-you-access-web-storage"
+    },
+    {
+        "question": "What are the methods available on session storage",
+        "link": "what-are-the-methods-available-on-session-storage"
+    },
+    {
+        "question": "What is a storage event and its event handler",
+        "link": "what-is-a-storage-event-and-its-event-handler"
+    },
+    {
+        "question": "Why do you need web storage",
+        "link": "why-do-you-need-web-storage"
+    },
+    {
+        "question": "How do you check web storage browser support",
+        "link": "how-do-you-check-web-storage-browser-support"
+    },
+    {
+        "question": "How do you check web workers browser support",
+        "link": "how-do-you-check-web-workers-browser-support"
+    },
+    {
+        "question": "Give an example of web worker",
+        "link": "give-an-example-of-web-worker"
+    },
+    {
+        "question": "What are the restrictions of web workers on DOM",
+        "link": "what-are-the-restrictions-of-web-workers-on-dom"
+    },
+    {
+        "question": "What is a promise",
+        "link": "what-is-a-promise"
+    },
+    {
+        "question": "Why do you need a promise",
+        "link": "why-do-you-need-a-promise"
+    },
+    {
+        "question": "What are the three states of promise",
+        "link": "what-are-the-three-states-of-promise"
+    },
+    {
+        "question": "What is a callback function",
+        "link": "what-is-a-callback-function"
+    },
+    {
+        "question": "Why do we need callbacks",
+        "link": "why-do-we-need-callbacks"
+    },
+    {
+        "question": "What is a callback hell",
+        "link": "what-is-a-callback-hell"
+    },
+    {
+        "question": "What is server-sent events",
+        "link": "what-is-server-sent-events"
+    },
+    {
+        "question": "How do you receive server-sent event notifications",
+        "link": "how-do-you-receive-server-sent-event-notifications"
+    },
+    {
+        "question": "How do you check browser support for server-sent events",
+        "link": "how-do-you-check-browser-support-for-server-sent-events"
+    },
+    {
+        "question": "What are the events available for server sent events",
+        "link": "what-are-the-events-available-for-server-sent-events"
+    },
+    {
+        "question": "What are the main rules of promise",
+        "link": "what-are-the-main-rules-of-promise"
+    },
+    {
+        "question": "What is callback in callback",
+        "link": "what-is-callback-in-callback"
+    },
+    {
+        "question": "What is promise chaining",
+        "link": "what-is-promise-chaining"
+    },
+    {
+        "question": "What is promise.all",
+        "link": "what-is-promise.all"
+    },
+    {
+        "question": "What is the purpose of race method in promise",
+        "link": "what-is-the-purpose-of-race-method-in-promise"
+    },
+    {
+        "question": "What is a strict mode in javascript",
+        "link": "what-is-a-strict-mode-in-javascript"
+    },
+    {
+        "question": "Why do you need strict mode",
+        "link": "why-do-you-need-strict-mode"
+    },
+    {
+        "question": "How do you declare strict mode",
+        "link": "how-do-you-declare-strict-mode"
+    },
+    {
+        "question": "What is the purpose of double exclamation",
+        "link": "what-is-the-purpose-of-double-exclamation"
+    },
+    {
+        "question": "What is the purpose of delete operator",
+        "link": "what-is-the-purpose-of-delete-operator"
+    },
+    {
+        "question": "What is typeof operator",
+        "link": "what-is-typeof-operator"
+    },
+    {
+        "question": "What is undefined property",
+        "link": "what-is-undefined-property"
+    },
+    {
+        "question": "What is null value",
+        "link": "what-is-null-value"
+    },
+    {
+        "question": "What is the difference between null and undefined",
+        "link": "what-is-the-difference-between-null-and-undefined"
+    },
+    {
+        "question": "What is eval",
+        "link": "What-is-eval"
+    },
+    {
+        "question": "What is the difference between window and document",
+        "link": "what-is-the-difference-between-window-and-document"
+    },
+    {
+        "question": "How do you access history in javascript",
+        "link": "how-do-you-access-history-in-javascript"
+    },
+    {
+        "question": "How do you detect caps lock key turned on or not",
+        "link": "how-do-you-detect-caps-lock-key-turned-on-or-not"
+    },
+    {
+        "question": "What is isNaN",
+        "link": "what-is-isnan"
+    },
+    {
+        "question": "What are the differences between undeclared and undefined variables",
+        "link": "what-are-the-differences-between-undeclared-and-undefined-variables"
+    },
+    {
+        "question": "What are global variables",
+        "link": "what-are-global-variables"
+    },
+    {
+        "question": "What are the problems with global variables",
+        "link": "what-are-the-problems-with-global-variables"
+    },
+    {
+        "question": "What is NaN property",
+        "link": "what-is-nan-property"
+    },
+    {
+        "question": "What is the purpose of isFinite function",
+        "link": "what-is-the-purpose-of-isfinite-functio"
+    },
+    {
+        "question": "What is an event flow",
+        "link": "what-is-an-event-flow"
+    },
+    {
+        "question": "What is event bubbling",
+        "link": "what-is-event-bubbling"
+    },
+    {
+        "question": "What is event capturing",
+        "link": "what-is-event-capturing"
+    },
+    {
+        "question": "How do you submit a form using JavaScript",
+        "link": "how-do-you-submit-a-form-using-javascript"
+    },
+    {
+        "question": "How do you find operating system details",
+        "link": "how-do-you-find-operating-system-details"
+    },
+    {
+        "question": "What is the difference between document load and DOMContentLoaded events",
+        "link": "what-is-the-difference-between-document-load-and-domcontentloaded-events"
+    },
+    {
+        "question": "What is the difference between native, host and user objects",
+        "link": "what-is-the-difference-between-native,-host-and-user-objects"
+    },
+    {
+        "question": "What are the tools or techniques used for debugging JavaScript code",
+        "link": "what-are-the-tools-or-techniques-used-for-debugging-javascript-code"
+    },
+    {
+        "question": "What are the pros and cons of promises over callbacks",
+        "link": "what-are-the-pros-and-cons-of-promises-over-callbacks"
+    },
+    {
+        "question": "What is the difference between an attribute and a property",
+        "link": "what-is-the-difference-between-an-attribute-and-a-property"
+    },
+    {
+        "question": "What is same-origin policy",
+        "link": "what-is-same-origin-policy"
+    },
+    {
+        "question": "What is the purpose of void 0",
+        "link": "what-is-the-purpose-of-void-0"
+    },
+    {
+        "question": "Is JavaScript a compiled or interpreted language",
+        "link": "is-javascript-a-compiled-or-interpreted-language"
+    },
+    {
+        "question": "Is JavaScript a case-sensitive language",
+        "link": "is-javascript-a-case-sensitive-language"
+    },
+    {
+        "question": "Is there any relation between Java and JavaScript",
+        "link": "is-there-any-relation-between-java-and-javascript"
+    },
+    {
+        "question": "What are events",
+        "link": "what-are-events"
+    },
+    {
+        "question": "Who created javascript",
+        "link": "who-created-javascript"
+    },
+    {
+        "question": "What is the use of preventDefault method",
+        "link": "what-is-the-use-of-preventdefault-method"
+    },
+    {
+        "question": "What is the use of stopPropagation method",
+        "link": "what-is-the-use-of-stoppropagation-method"
+    },
+    {
+        "question": "What are the steps involved in return false",
+        "link": "what-are-the-steps-involved-in-return-false"
+    },
+    {
+        "question": "What is BOM",
+        "link": "what-is-bom"
+    },
+    {
+        "question": "What is the use of setTimeout",
+        "link": "what-is-the-use-of-settimeout"
+    },
+    {
+        "question": "What is the use of setInterval",
+        "link": "what-is-the-use-of-setinterval"
+    },
+    {
+        "question": "Why is JavaScript treated as Single threaded",
+        "link": "why-is-javascript-treated-as-single-threaded"
+    },
+    {
+        "question": "What is an event delegation",
+        "link": "what-is-an-event-delegation"
+    },
+    {
+        "question": "What is ECMAScript",
+        "link": "what-is-ecmascript"
+    },
+    {
+        "question": "What is JSON",
+        "link": "what-is-json"
+    },
+    {
+        "question": "What are the syntax rules of JSON",
+        "link": "what-are-the-syntax-rules-of-json"
+    },
+    {
+        "question": "What is the purpose JSON stringify",
+        "link": "what-is-the-purpose-json-stringify"
+    },
+    {
+        "question": "How do you parse JSON string",
+        "link": "how-do-you-parse-json-string"
+    },
+    {
+        "question": "Why do you need JSON",
+        "link": "why-do-you-need-json"
+    },
+    {
+        "question": "What are PWAs",
+        "link": "what-are-pwas?"
+    },
+    {
+        "question": "What is the purpose of clearTimeout method",
+        "link": "what-is-the-purpose-of-cleartimeout-method"
+    },
+    {
+        "question": "What is the purpose of clearInterval method",
+        "link": "what-is-the-purpose-of-clearinterval-method"
+    },
+    {
+        "question": "How do you redirect new page in javascript",
+        "link": "how-do-you-redirect-new-page-in-javascript"
+    },
+    {
+        "question": "How do you check whether a string contains a substring",
+        "link": "how-do-you-check-whether-a-string-contains-a-substring"
+    },
+    {
+        "question": "How do you validate an email in javascript",
+        "link": "how-do-you-validate-an-email-in-javascript"
+    },
+    {
+        "question": "How do you get the current url with javascript",
+        "link": "how-do-you-get-the-current-url-with-javascript"
+    },
+    {
+        "question": "What are the various url properties of location object",
+        "link": "what-are-the-various-url-properties-of-location-object"
+    },
+    {
+        "question": "How do get query string values in javascript",
+        "link": "how-do-get-query-string-values-in-javascript"
+    },
+    {
+        "question": "How do you check if a key exists in an object",
+        "link": "how-do-you-check-if-a-key-exists-in-an-object"
+    },
+    {
+        "question": "How do you loop through or enumerate javascript object",
+        "link": "how-do-you-loop-through-or-enumerate-javascript-object"
+    },
+    {
+        "question": "How do you test for an empty object",
+        "link": "how-do-you-test-for-an-empty-object"
+    },
+    {
+        "question": "What is an arguments object",
+        "link": "what-is-an-arguments-object"
+    },
+    {
+        "question": "How do you make first letter of the string in an uppercase",
+        "link": "how-do-you-make-first-letter-of-the-string-in-an-uppercase"
+    },
+    {
+        "question": "What are the pros and cons of for loop",
+        "link": "what-are-the-pros-and-cons-of-for-loop"
+    },
+    {
+        "question": "How do you display the current date in javascript",
+        "link": "how-do-you-display-the-current-date-in-javascript"
+    },
+    {
+        "question": "How do you compare two date objects",
+        "link": "how-do-you-compare-two-date-objects"
+    },
+    {
+        "question": "How do you check if a string starts with another string",
+        "link": "how-do-you-check-if-a-string-starts-with-another-string"
+    },
+    {
+        "question": "How do you trim a string in javascript",
+        "link": "how-do-you-trim-a-string-in-javascript"
+    },
+    {
+        "question": "How do you add a key value pair in javascript",
+        "link": "how-do-you-add-a-key-value-pair-in-javascript"
+    },
+    {
+        "question": "Is the '!--' notation represents a special operator",
+        "link": "is-the-'!--'-notation-represents-a-special-operator"
+    },
+    {
+        "question": "How do you assign default values to variables",
+        "link": "how-do-you-assign-default-values-to-variables"
+    },
+    {
+        "question": "How do you define multiline strings",
+        "link": "how-do-you-define-multiline-strings"
+    },
+    {
+        "question": "What is an app shell model",
+        "link": "what-is-an-app-shell-model"
+    },
+    {
+        "question": "Can we define properties for functions",
+        "link": "can-we-define-properties-for-functions"
+    },
+    {
+        "question": "What is the way to find the number of parameters expected by a function",
+        "link": "what-is-the-way-to-find-the-number-of-parameters-expected-by-a-function"
+    },
+    {
+        "question": "What is a polyfill",
+        "link": "what-is-a-polyfill"
+    },
+    {
+        "question": "What are break and continue statements",
+        "link": "what-are-break-and-continue-statements"
+    },
+    {
+        "question": "What are js labels",
+        "link": "what-are-js-labels"
+    },
+    {
+        "question": "What are the benefits of keeping declarations at the top",
+        "link": "what-are-the-benefits-of-keeping-declarations-at-the-top"
+    },
+    {
+        "question": "What are the benefits of initializing variables",
+        "link": "what-are-the-benefits-of-initializing-variables"
+    },
+    {
+        "question": "What are the recommendations to create new object",
+        "link": "what-are-the-recommendations-to-create-new-object"
+    },
+    {
+        "question": "How do you define JSON arrays",
+        "link": "how-do-you-define-json-arrays"
+    },
+    {
+        "question": "How do you generate random integers",
+        "link": "how-do-you-generate-random-integers"
+    },
+    {
+        "question": "Can you write a random integers function to print integers with in a range",
+        "link": "can-you-write-a-random-integers-function-to-print-integers-with-in-a-range"
+    },
+    {
+        "question": "What is tree shaking",
+        "link": "what-is-tree-shaking"
+    },
+    {
+        "question": "What is the need of tree shaking",
+        "link": "what-is-the-need-of-tree-shaking"
+    },
+    {
+        "question": "Is it recommended to use eval",
+        "link": "is-it-recommended-to-use-eval"
+    },
+    {
+        "question": "What is a Regular Expression",
+        "link": "what-is-a-regular-expression"
+    },
+    {
+        "question": "What are the string methods available in Regular expression",
+        "link": "what-are-the-string-methods-available-in-regular-expression"
+    },
+    {
+        "question": "What are modifiers in regular expression",
+        "link": "what-are-modifiers-in-regular-expression"
+    },
+    {
+        "question": "What are regular expression patterns",
+        "link": "what-are-regular-expression-patterns"
+    },
+    {
+        "question": "What is a RegExp object",
+        "link": "what-is-a-regexp-object"
+    },
+    {
+        "question": "How do you search a string for a pattern",
+        "link": "how-do-you-search-a-string-for-a-pattern"
+    },
+    {
+        "question": "What is the purpose of exec method",
+        "link": "what-is-the-purpose-of-exec-method"
+    },
+    {
+        "question": "How do you change style of a HTML element",
+        "link": "how-do-you-change-style-of-a-html-element"
+    },
+    {
+        "question": "What would be the result of 1+2+'3'",
+        "link": "what-would-be-the-result-of-1+2+'3'"
+    },
+    {
+        "question": "What is a debugger statement",
+        "link": "what-is-a-debugger-statement"
+    },
+    {
+        "question": "What is the purpose of breakpoints in debugging",
+        "link": "what-is-the-purpose-of-breakpoints-indebugging"
+    },
+    {
+        "question": "Can I use reserved words as identifiers",
+        "link": "can-i-use-reserved-words-as-identifiers"
+    },
+    {
+        "question": "How do you detect a mobile browser",
+        "link": "how-do-you-detect-a-mobile-browser"
+    },
+    {
+        "question": "How do you detect a mobile browser without regexp",
+        "link": "how-do-you-detect-a-mobile-browser-without-regexp"
+    },
+    {
+        "question": "How do you get the image width and height using JS",
+        "link": "how-do-you-get-the-image-width-and-height-using-js"
+    },
+    {
+        "question": "How do you make synchronous HTTP request",
+        "link": "how-do-you-make-synchronous-http-request"
+    },
+    {
+        "question": "How do you make asynchronous HTTP request",
+        "link": "how-do-you-make-asynchronous-http-request"
+    },
+    {
+        "question": "How do you convert date to another timezone in javascript",
+        "link": "how-do-you-convert-date-to-another-timezone-in-javascript"
+    },
+    {
+        "question": "What are the properties used to get size of window",
+        "link": "what-are-the-properties-used-to-get-size-of-window"
+    },
+    {
+        "question": "What is a conditional operator in javascript",
+        "link": "what-is-a-conditional-operator-in-javascript"
+    },
+    {
+        "question": "Can you apply chaining on conditional operator",
+        "link": "Can-you-apply-chaining-on-conditional-operator"
+    },
+    {
+        "question": "What are the ways to execute javascript after page load",
+        "link": "what-are-the-ways-to-execute-javascript-after-page-load"
+    },
+    {
+        "question": "What is the difference between proto and prototype",
+        "link": "what-is-the-difference-between-proto-and-prototype"
+    },
+    {
+        "question": "Give an example where do you really need semicolon",
+        "link": "give-an-example-where-do-you-really-need-semicolon"
+    },
+    {
+        "question": "What is a freeze method",
+        "link": "what-is-a-freeze-method"
+    },
+    {
+        "question": "What is the purpose of freeze method",
+        "link": "what-is-the-purpose-of-freeze-method"
+    },
+    {
+        "question": "Why do I need to use freeze method",
+        "link": "why-do-i-need-to-use-freeze-method"
+    },
+    {
+        "question": "How do you detect a browser language preference",
+        "link": "how-do-you-detect-a-browser-language-preference"
+    },
+    {
+        "question": "How to convert string to title case with javascript",
+        "link": "how-to-convert-string-to-title-case-with-javascript"
+    },
+    {
+        "question": "How do you detect javascript disabled in the page",
+        "link": "how-do-you-detect-javascript-disabled-in-the-page"
+    },
+    {
+        "question": "What are various operators supported by javascript",
+        "link": "what-are-various-operators-supported-by-javascript"
+    },
+    {
+        "question": "What is a rest parameter",
+        "link": "what-is-a-rest-parameter"
+    },
+    {
+        "question": "What happens if you do not use rest parameter as a last argument",
+        "link": "what-happens-if-you-do-not-use-rest-parameter-as-a-last-argument"
+    },
+    {
+        "question": "What are the bitwise operators available in javascript",
+        "link": "what-are-the-bitwise-operators-available-in-javascript"
+    },
+    {
+        "question": "What is a spread operator",
+        "link": "what-is-a-spread-operator"
+    },
+    {
+        "question": "How do you determine whether object is frozen or not",
+        "link": "how-do-you-determine-whether-object-is-frozen-or-not"
+    },
+    {
+        "question": "How do you determine two values same or not using object",
+        "link": "how-do-you-determine-two-values-same-or-not-using-object"
+    },
+    {
+        "question": "What is the purpose of using object is method",
+        "link": "what-is-the-purpose-of-using-object-is-method"
+    },
+    {
+        "question": "How do you copy properties from one object to other",
+        "link": "how-do-you-copy-properties-from-one-object-to-other"
+    },
+    {
+        "question": "What are the applications of assign method",
+        "link": "what-are-the-applications-of-assign-method"
+    },
+    {
+        "question": "What is a proxy object",
+        "link": "what-is-a-proxy-object"
+    },
+    {
+        "question": "What is the purpose of seal method",
+        "link": "what-is-the-purpose-of-seal-method"
+    },
+    {
+        "question": "What are the applications of seal method",
+        "link": "what-are-the-applications-of-seal-method"
+    },
+    {
+        "question": "What are the differences between freeze and seal methods",
+        "link": "what-are-the-differences-between-freeze-and-seal-methods"
+    },
+    {
+        "question": "How do you determine if an object is sealed or not",
+        "link": "how-do-you-determine-if-an-object-is-sealed-or-not"
+    },
+    {
+        "question": "How do you get enumerable key and value pairs",
+        "link": "how-do-you-get-enumerable-key-and-value-pairs"
+    },
+    {
+        "question": "What is the main difference between Object.values and Object.entries method",
+        "link": "what-is-the-main-difference-between-object.values-and-object.entries-method"
+    },
+    {
+        "question": "How can you get the list of keys of any object",
+        "link": "how-can-you-get-the-list-of-keys-of-any-object"
+    },
+    {
+        "question": "How do you create an object with prototype",
+        "link": "how-do-you-create-an-object-with-prototype"
+    },
+    {
+        "question": "What is a WeakSet",
+        "link": "what-is-a-weakset"
+    },
+    {
+        "question": "What are the differences between WeakSet and Set",
+        "link": "what-are-the-differences-between-weakset-and-set"
+    },
+    {
+        "question": "List down the collection of methods available on WeakSet",
+        "link": "list-down-the-collection-of-methods-available-on-weakset"
+    },
+    {
+        "question": "What is a WeakMap",
+        "link": "what-is-a-weakmap"
+    },
+    {
+        "question": "What are the differences between WeakMap and Map",
+        "link": "what-are-the-differences-between-weakmap-and-map"
+    },
+    {
+        "question": "List down the collection of methods available on WeakMap",
+        "link": "list-down-the-collection-of-methods-available-on-weakmap"
+    },
+    {
+        "question": "What is the purpose of uneval",
+        "link": "what-is-the-purpose-of-uneval"
+    },
+    {
+        "question": "How do you encode an URL",
+        "link": "how-do-you-encode-an-url"
+    },
+    {
+        "question": "How do you decode an URL",
+        "link": "how-do-you-decode-an-url"
+    },
+    {
+        "question": "How do you print the contents of web page",
+        "link": "how-do-you-print-the-contents-of-web-page"
+    },
+    {
+        "question": "What is the difference between uneval and eval",
+        "link": "what-is-the-difference-between-uneval-and-eval"
+    },
+    {
+        "question": "What is an anonymous function",
+        "link": "what-is-an-anonymous-function"
+    },
+    {
+        "question": "What is the precedence order between local and global variables",
+        "link": "what-is-the-precedence-order-between-local-and-global-variables"
+    },
+    {
+        "question": "What are javascript accessors",
+        "link": "what-are-javascript-accessors"
+    },
+    {
+        "question": "How do you define property on Object constructor",
+        "link": "how-do-you-define-property-on-object-constructor"
+    },
+    {
+        "question": "What is the difference between get and defineProperty",
+        "link": "what-is-the-difference-between-get-and-defineproperty"
+    },
+    {
+        "question": "What are the advantages of Getters and Setters",
+        "link": "what-are-the-advantages-of-getters-and-setters"
+    },
+    {
+        "question": "Can I add getters and setters using defineProperty method",
+        "link": "can-i-add-getters-and-setters-using-defineproperty-method"
+    },
+    {
+        "question": "What is the purpose of switch-case",
+        "link": "what-is-the-purpose-of-switch-case"
+    },
+    {
+        "question": "What are the conventions to be followed for the usage of swtich case",
+        "link": "what-are-the-conventions-to-be-followed-for-the-usage-of-swtich-case"
+    },
+    {
+        "question": "What are primitive data types",
+        "link": "what-are-primitive-data-types"
+    },
+    {
+        "question": "What are the different ways to access object properties",
+        "link": "what-are-the-different-ways-to-access-object-properties"
+    },
+    {
+        "question": "What are the function parameter rules",
+        "link": "what-are-the-function-parameter-rules"
+    },
+    {
+        "question": "What is an error object",
+        "link": "what-is-an-error-object"
+    },
+    {
+        "question": "When you get a syntax error",
+        "link": "when-you-get-a-syntax-error"
+    },
+    {
+        "question": "What are the different error names from error object",
+        "link": "what-are-the-different-error-names-from-error-object"
+    },
+    {
+        "question": "What are the various statements in error handling",
+        "link": "what-are-the-various-statements-in-error-handling"
+    },
+    {
+        "question": "What are the two types of loops in javascript",
+        "link": "what-are-the-two-types-of-loops-in-javascript"
+    },
+    {
+        "question": "What is nodejs",
+        "link": "what-is-nodejs"
+    },
+    {
+        "question": "What is an Intl object",
+        "link": "what-is-an-intl-object"
+    },
+    {
+        "question": "How do you perform language specific date and time formatting",
+        "link": "how-do-you-perform-language-specific-date-and-time-formatting"
+    },
+    {
+        "question": "What is an Iterator",
+        "link": "what-is-an-iterator"
+    },
+    {
+        "question": "How does synchronous iteration works",
+        "link": "how-does-synchronous-iteration-works"
+    },
+    {
+        "question": "What is an event loop",
+        "link": "what-is-an-event-loop"
+    },
+    {
+        "question": "What is call stack",
+        "link": "what-is-call-stack"
+    },
+    {
+        "question": "What is an event queue",
+        "link": "what-is-an-event-queue"
+    },
+    {
+        "question": "What is a decorator",
+        "link": "what-is-a-decorator"
+    },
+    {
+        "question": "What are the properties of Intl object",
+        "link": "what-are-the-properties-of-intl-object"
+    },
+    {
+        "question": "What is an Unary operator",
+        "link": "what-is-an-unary-operator"
+    },
+    {
+        "question": "How do you sort elements in an array",
+        "link": "how-do-you-sort-elements-in-an-array"
+    },
+    {
+        "question": "What is the purpose of compareFunction while sorting arrays",
+        "link": "what-is-the-purpose-of-comparefunction-while-sorting-arrays"
+    },
+    {
+        "question": "How do you reversing an array",
+        "link": "how-do-you-reversing-an-array"
+    },
+    {
+        "question": "How do you find min and max value in an array",
+        "link": "how-do-you-find-min-and-max-value-in-an-array"
+    },
+    {
+        "question": "How do you find min and max values without Math functions",
+        "link": "how-do-you-find-min-and-max-values-without--math-functions"
+    },
+    {
+        "question": "What is an empty statement and purpose of it",
+        "link": "what-is-an-empty-statement-and-purpose-of-it"
+    },
+    {
+        "question": "How do you get meta data of a module",
+        "link": "how-do-you-get-meta-data-of-a-module"
+    },
+    {
+        "question": "What is a comma operator",
+        "link": "what-is-a-comma-operator"
+    },
+    {
+        "question": "What is the advantage of a comma operator",
+        "link": "what-is-the-advantage-of-a-comma-operator"
+    },
+    {
+        "question": "What is typescript",
+        "link": "what-is-typescript"
+    },
+    {
+        "question": "What are the differences between javascript and typescript",
+        "link": "what-are-the-differences-between-javascript-and-typescript"
+    },
+    {
+        "question": "What are the advantages of typescript over javascript",
+        "link": "what-are-the-advantages-of-typescript-over-javascript"
+    },
+    {
+        "question": "What is an object initializer",
+        "link": "what-is-an-object-initializer"
+    },
+    {
+        "question": "What is a constructor method",
+        "link": "what-is-a-constructor-method"
+    },
+    {
+        "question": "What happens if you write constructor more than once in a class",
+        "link": "what-happens-if-you-write-constructor-more-than-once-in-a-class"
+    },
+    {
+        "question": "How do you call the constructor of a parent class",
+        "link": "how-do-you-call-the-constructor-of-a-parent-class"
+    },
+    {
+        "question": "How do you get the prototype of an object",
+        "link": "how-do-you-get-the-prototype-of-an-object"
+    },
+    {
+        "question": "What happens If I pass string type for getPrototype method",
+        "link": "what-happens-if-i-pass-string-type-for-getprototype-method"
+    },
+    {
+        "question": "How do you set prototype of one object to another",
+        "link": "how-do-you-set-prototype-of-one-object-to-another"
+    },
+    {
+        "question": "How do you check whether an object can be extendable or not",
+        "link": "how-do-you-check-whether-an-object-can-be-extendable-or-not"
+    },
+    {
+        "question": "How do you prevent an object to extend",
+        "link": "how-do-you-prevent-an-object-to-extend"
+    },
+    {
+        "question": "What are the different ways to make an object non-extensible",
+        "link": "what-are-the-different-ways-to-make-an-object-non-extensible"
+    },
+    {
+        "question": "How do you define multiple properties on an object",
+        "link": "how-do-you-define-multiple-properties-on-an-object"
+    },
+    {
+        "question": "What is MEAN in javascript",
+        "link": "what-is-mean-in-javascript"
+    },
+    {
+        "question": "What Is Obfuscation in javascript",
+        "link": "what-is-obfuscation-in-javascript"
+    },
+    {
+        "question": "Why do you need Obfuscation",
+        "link": "why-do-you-need-obfuscation"
+    },
+    {
+        "question": "What is Minification",
+        "link": "what-is-minification"
+    },
+    {
+        "question": "What are the advantages of minification",
+        "link": "what-are-the-advantages-of-minification"
+    },
+    {
+        "question": "What are the differences between Obfuscation and Encryption",
+        "link": "what-are-the-differences-between-obfuscation-and-encryption"
+    },
+    {
+        "question": "What are the common tools used for minification",
+        "link": "what-are-the-common-tools-used-for-minification"
+    },
+    {
+        "question": "How do you perform form validation using javascript",
+        "link": "how-do-you-perform-form-validation-using-javascript"
+    },
+    {
+        "question": "How do you perform form validation without javascript",
+        "link": "how-do-you-perform-form-validation-without-javascript"
+    },
+    {
+        "question": "What are the DOM methods available for constraint validation",
+        "link": "what-are-the-dom-methods-available-for-constraint-validation"
+    },
+    {
+        "question": "What are the available constraint validation DOM properties",
+        "link": "what-are-the-available-constraint-validation-dom-properties"
+    },
+    {
+        "question": "What are the list of validity properties",
+        "link": "what-are-the-list-of-validity-properties"
+    },
+    {
+        "question": "Give an example usage of rangeOverflow property",
+        "link": "give-an-example-usage-of-rangeoverflow-property"
+    },
+    {
+        "question": "Is enums feature available in javascript",
+        "link": "is-enums-feature-available-in-javascript"
+    },
+    {
+        "question": "What is an enum",
+        "link": "What-is-an-enum"
+    },
+    {
+        "question": "How do you list all properties of an object",
+        "link": "how-do-you-list-all-properties-of-an-object"
+    },
+    {
+        "question": "How do you get property descriptors of an object",
+        "link": "how-do-you-get-property-descriptors-of-an-object"
+    },
+    {
+        "question": "What are the attributes provided by a property descriptor",
+        "link": "what-are-the-attributes-provided-by-a-property-descriptor"
+    },
+    {
+        "question": "How do you extend classes",
+        "link": "how-do-you-extend-classes"
+    },
+    {
+        "question": "How do I modify the url without reloading the page",
+        "link": "how-do-i-modify-the-url-without-reloading-the-page"
+    },
+    {
+        "question": "How do you check whether an array includes a particular value or not",
+        "link": "how-do-you-check-whether-an-array-includes-a-particular-value-or-not"
+    },
+    {
+        "question": "How do you compare scalar arrays",
+        "link": "how-do-you-compare-scalar-arrays"
+    },
+    {
+        "question": "How to get the value from get parameters",
+        "link": "how-to-get-the-value-from-get-parameters"
+    },
+    {
+        "question": "How do you print numbers with commas as thousand separators",
+        "link": "how-do-you-print-numbers-with-commas-as-thousand-separators"
+    },
+    {
+        "question": "What is the difference between java and javascript",
+        "link": "what-is-the-difference-between-java-and-javascript"
+    },
+    {
+        "question": "Does javascript supports namespace",
+        "link": "does-javascript-supports-namespace"
+    },
+    {
+        "question": "How do you declare namespace",
+        "link": "how-do-you-declare-namespace"
+    },
+    {
+        "question": "How do you invoke javascript code in an iframe from parent page",
+        "link": "how-do-you-invoke-javascript-code-in-an-iframe-from-parent-page"
+    },
+    {
+        "question": "How do get the timezone offset from date",
+        "link": "how-do-get-the-timezone-offset-from-date"
+    },
+    {
+        "question": "How do you load CSS and JS files dynamically",
+        "link": "how-do-you-load-css-and-js-files-dynamically"
+    },
+    {
+        "question": "What are the different methods to find HTML elements in DOM",
+        "link": "what-are-the-different-methods-to-find-html-elements-in-dom"
+    },
+    {
+        "question": "What is jQuery",
+        "link": "what-is-jquery"
+    },
+    {
+        "question": "What is V8 JavaScript engine",
+        "link": "what-is-v8-javascript-engine"
+    },
+    {
+        "question": "Why do we call javascript as dynamic language",
+        "link": "why-do-we-call-javascript-as-dynamic-language"
+    },
+    {
+        "question": "What is a void operator",
+        "link": "what-is-a-void-operator"
+    },
+    {
+        "question": "How to set the cursor to wait",
+        "link": "how-to-set-the-cursor-to-wait"
+    },
+    {
+        "question": "How do you create an infinite loop",
+        "link": "how-do-you-create-an-infinite-loop"
+    },
+    {
+        "question": "Why do you need to avoid with statement",
+        "link": "why-do-you-need-to-avoid-with-statement"
+    },
+    {
+        "question": "What is the output of below for loops",
+        "link": "what-is-the-output-of-below-for-loops"
+    },
+    {
+        "question": "List down some of the features of ES6",
+        "link": "list-down-some-of-the-features-of-es6"
+    },
+    {
+        "question": "What is ES6",
+        "link": "what-is-es6"
+    },
+    {
+        "question": "Can I redeclare let and const variables",
+        "link": "can-I-redeclare-let-and-const-variables"
+    },
+    {
+        "question": "Is const variable makes the value immutable",
+        "link": "is-const-variable-makes-the-value-immutable"
+    },
+    {
+        "question": "What are default parameters",
+        "link": "what-are-default-parameters"
+    },
+    {
+        "question": "What are template literals",
+        "link": "what-are-template-literals"
+    },
+    {
+        "question": "How do you write multi-line strings in template literals",
+        "link": "how-do-you-write-multi-line-strings-in-template-literals"
+    },
+    {
+        "question": "What are nesting templates",
+        "link": "what-are-nesting-templates"
+    },
+    {
+        "question": "What are tagged templates",
+        "link": "what-are-tagged-templates"
+    },
+    {
+        "question": "What are raw strings",
+        "link": "what-are-raw-strings"
+    },
+    {
+        "question": "What is destructuring assignment",
+        "link": "what-is-destructuring-assignment"
+    },
+    {
+        "question": "What are default values in destructuring assignment",
+        "link": "what-are-default-values-in-destructuring-assignment"
+    },
+    {
+        "question": "How do you swap variables in destructuring assignment",
+        "link": "how-do-you-swap-variables-in-destructuring-assignment"
+    },
+    {
+        "question": "What are enhanced object literals",
+        "link": "what-are-enhanced-object-literals"
+    },
+    {
+        "question": "What are dynamic imports",
+        "link": "what-are-dynamic-imports"
+    },
+    {
+        "question": "What are the use cases for dynamic imports",
+        "link": "what-are-the-use-cases-for-dynamic-imports"
+    },
+    {
+        "question": "What are typed arrays",
+        "link": "what-are-typed-arrays"
+    },
+    {
+        "question": "What are the advantages of module loaders",
+        "link": "what-are-the-advantages-of-module-loaders"
+    },
+    {
+        "question": "What is collation",
+        "link": "what-is-collation"
+    },
+    {
+        "question": "What is for...of statement",
+        "link": "what-is-for...of-statement"
+    },
+    {
+        "question": "What is the output of below spread operator array",
+        "link": "what-is-the-output-of-below-spread-operator-array"
+    },
+    {
+        "question": "Is PostMessage secure",
+        "link": "is-postmessage-secure"
+    },
+    {
+        "question": "What are the problems with postmessage target origin as wildcard",
+        "link": "what-are-the-problems-with-postmessage-target-origin-as-wildcard"
+    },
+    {
+        "question": "How do you avoid receiving postMessages from attackers",
+        "link": "how-do-you-avoid-receiving-postmessages-from-attackers"
+    },
+    {
+        "question": "Can I avoid using postMessages completely",
+        "link": "can-i-avoid-using-postmessages-completely"
+    },
+    {
+        "question": "Is postMessages synchronous",
+        "link": "is-postmessages-synchronous"
+    },
+    {
+        "question": "What paradigm is Javascript",
+        "link": "what-paradigm-is-javascript"
+    },
+    {
+        "question": "What is the difference between internal and external javascript",
+        "link": "what-is-the-difference-between-internal-and-external-javascript"
+    },
+    {
+        "question": "Is JavaScript faster than server side script",
+        "link": "is-javascript-faster-than-server-side-script"
+    },
+    {
+        "question": "How do you get the status of a checkbox",
+        "link": "how-do-you-get-the-status-of-a-checkbox"
+    },
+    {
+        "question": "What is the purpose of double tilde operator",
+        "link": "what-is-the-purpose-of-double-tilde-operator"
+    },
+    {
+        "question": "How do you convert character to ASCII code",
+        "link": "how-do-you-convert-character-to-ascii-code"
+    },
+    {
+        "question": "What is ArrayBuffer",
+        "link": "what-is-arraybuffer"
+    },
+    {
+        "question": "What is the output of below string expression",
+        "link": "what-is-the-output-of-below-string-expression"
+    },
+    {
+        "question": "What is the purpose of Error object",
+        "link": "what-is-the-purpose-of-error-object"
+    },
+    {
+        "question": "What is the purpose of EvalError object",
+        "link": "what-is-the-purpose-of-evalerror-object"
+    },
+    {
+        "question": "What are the list of cases error thrown from non-strict mode to strict mode",
+        "link": "what-are-the-list-of-cases-error-thrown-from-non-strict-mode-to-strict-mode"
+    },
+    {
+        "question": "Do all objects have prototypes",
+        "link": "do-all-objects-have-prototypes"
+    },
+    {
+        "question": "What is the difference between a parameter and an argument",
+        "link": "what-is-the-difference-between-a-parameter-and-an-argument"
+    },
+    {
+        "question": "What is the purpose of some method in arrays",
+        "link": "what-is-the-purpose-of-some-method-in-arrays"
+    },
+    {
+        "question": "How do you combine two or more arrays",
+        "link": "how-do-you-combine-two-or-more-arrays"
+    },
+    {
+        "question": "What is the difference between Shallow and Deep copy",
+        "link": "what-is-the-difference-between-shallow-and-deep-copy"
+    },
+    {
+        "question": "How do you create specific number of copies of a string",
+        "link": "how-do-you-create-specific-number-of-copies-of-a-string"
+    },
+    {
+        "question": "How do you return all matching strings against a regular expression",
+        "link": "how-do-you-return-all-matching-strings-against-a-regular-expression"
+    },
+    {
+        "question": "How do you trim a string at the beginning or ending",
+        "link": "how-do-you-trim-a-string-at-the-beginning-or-ending"
+    },
+    {
+        "question": "What is the output of below console statement with unary operator",
+        "link": "what-is-the-output-of-below-console-statement-with-unary-operator"
+    },
+    {
+        "question": "Does javascript uses mixins",
+        "link": "does-javascript-uses-mixins"
+    },
+    {
+        "question": "What is a thunk function",
+        "link": "what-is-a-thunk-function"
+    },
+    {
+        "question": "What are asynchronous thunks",
+        "link": "what-are-asynchronous-thunks"
+    },
+    {
+        "question": "What is the output of below function calls",
+        "link": "what-is-the-output-of-below-function-calls"
+    },
+    {
+        "question": "How to remove all line breaks from a string",
+        "link": "how-to-remove-all-line-breaks-from-a-string"
+    },
+    {
+        "question": "What is the difference between reflow and repaint",
+        "link": "what-is-the-difference-between-reflow-and-repaint"
+    },
+    {
+        "question": "What happens with negating an array",
+        "link": "what-happens-with-negating-an-array"
+    },
+    {
+        "question": "What happens if we add two arrays",
+        "link": "what-happens-if-we-add-two-arrays"
+    },
+    {
+        "question": "What is the output of prepend additive operator on falsy values",
+        "link": "what-is-the-output-of-prepend-additive-operator-on-falsy-values"
+    },
+    {
+        "question": "How do you create self string using special characters",
+        "link": "how-do-you-create-self-string-using-special-characters"
+    },
+    {
+        "question": "How do you remove falsy values from an array",
+        "link": "how-do-you-remove-falsy-values-from-an-array"
+    },
+    {
+        "question": "How do you get unique values of an array",
+        "link": "how-do-you-get-unique-values-of-an-array"
+    },
+    {
+        "question": "What is destructuring aliases",
+        "link": "what-is-destructuring-aliases"
+    },
+    {
+        "question": "How do you map the array values without using map method",
+        "link": "how-do-you-map-the-array-values-without-using-map-method"
+    },
+    {
+        "question": "How do you empty an array",
+        "link": "how-do-you-empty-an-array"
+    },
+    {
+        "question": "How do you rounding numbers to certain decimals",
+        "link": "how-do-you-rounding-numbers-to-certain-decimals"
+    },
+    {
+        "question": "What is the easiest way to convert an array to an object",
+        "link": "what-is-the-easiest-way-to-convert-an-array-to-an-object"
+    },
+    {
+        "question": "How do you create an array with some data",
+        "link": "how-do-you-create-an-array-with-some-data"
+    },
+    {
+        "question": "What are the placeholders from console object",
+        "link": "what-are-the-placeholders-from-console-object"
+    },
+    {
+        "question": "Is it possible to add CSS to console messages",
+        "link": "is-it-possible-to-add-css-to-console-messages"
+    },
+    {
+        "question": "What is the purpose of dir method of console object",
+        "link": "what-is-the-purpose-of-dir-method-of-console-object"
+    },
+    {
+        "question": "Is it possible to debug HTML elements in console",
+        "link": "is-it-possible-to-debug-html-elements-in-console"
+    },
+    {
+        "question": "How do you display data in a tabular format using console object",
+        "link": "how-do-you-display-data-in-a-tabular-format-using-console-object"
+    },
+    {
+        "question": "How do you verify that an argument is a Number or not",
+        "link": "how-do-you-verify-that-an-argument-is-a-number-or-not"
+    },
+    {
+        "question": "How do you create copy to clipboard button",
+        "link": "how-do-you-create-copy-to-clipboard-button"
+    },
+    {
+        "question": "What is the shortcut to get timestamp",
+        "link": "what-is-the-shortcut-to-get-timestamp"
+    },
+    {
+        "question": "How do you flattening multi dimensional arrays",
+        "link": "how-do-you-flattening-multi-dimensional-arrays"
+    },
+    {
+        "question": "What is the easiest multi condition checking",
+        "link": "what-is-the-easiest-multi-condition-checking"
+    },
+    {
+        "question": "How do you capture browser back button",
+        "link": "how-do-you-capture-browser-back-button"
+    },
+    {
+        "question": "How do you disable right click in the web page",
+        "link": "how-do-you-disable-right-click-in-the-web-page"
+    },
+    {
+        "question": "What are wrapper objects",
+        "link": "what-are-wrapper-objects"
+    },
+    {
+        "question": "What is AJAX",
+        "link": "what-is-ajax"
+    },
+    {
+        "question": "What are the different ways to deal with Asynchronous Code",
+        "link": "what-are-the-different-ways-to-deal-with-asynchronous-code"
+    },
+    {
+        "question": "How to cancel a fetch request",
+        "link": "how-to-cancel-a-fetch-request"
+    },
+    {
+        "question": "What is web speech API",
+        "link": "what-is-web-speech-api"
+    },
+    {
+        "question": "What is minimum timeout throttling",
+        "link": "what-is-minimum-timeout-throttling"
+    },
+    {
+        "question": "How do you implement zero timeout in modern browsers",
+        "link": "how-do-you-implement-zero-timeout-in-modern-browsers"
+    },
+    {
+        "question": "What are tasks in event loop",
+        "link": "what-are-tasks-in-event-loop"
+    },
+    {
+        "question": "What are microtasks",
+        "link": "what-are-microtasks"
+    },
+    {
+        "question": "What are different event loops",
+        "link": "what-are-different-event-loops"
+    },
+    {
+        "question": "What is the purpose of queueMicrotask",
+        "link": "what-is-the-purpose-of-queuemicrotask"
+    },
+    {
+        "question": "How do you use javascript libraries in typescript file",
+        "link": "how-do-you-use-javascript-libraries-in-typescript-file"
+    },
+    {
+        "question": "What are the differences between promises and observables",
+        "link": "what-are-the-differences-between-promises-and-observables"
+    },
+    {
+        "question": "What is heap",
+        "link": "what-is-heap"
+    },
+    {
+        "question": "What is an event table",
+        "link": "what-is-an-event-table"
+    },
+    {
+        "question": "What is a microTask queue",
+        "link": "what-is-a-microtask-queue"
+    },
+    {
+        "question": "What is the difference between shim and polyfill",
+        "link": "what-is-the-difference-between-shim-and-polyfill"
+    },
+    {
+        "question": "How do you detect primitive or non primitive value type",
+        "link": "how-do-you-detect-primitive-or-non-primitive-value-type"
+    },
+    {
+        "question": "What is babel",
+        "link": "what-is-babel"
+    },
+    {
+        "question": "Is Node.js completely single threaded",
+        "link": "is-node.js-completely-single-threaded"
+    },
+    {
+        "question": "What are the common use cases of observables",
+        "link": "what-are-the-common-use-cases-of-observables"
+    },
+    {
+        "question": "What is RxJS",
+        "link": "what-is-rxjs"
+    },
+    {
+        "question": "What is the difference between Function constructor and function declaration",
+        "link": "what-is-the-difference-between-function-constructor-and-function-declaration"
+    },
+    {
+        "question": "What is a Short circuit condition",
+        "link": "what-is-a-short-circuit-condition"
+    },
+    {
+        "question": "What is the easiest way to resize an array",
+        "link": "what-is-the-easiest-way-to-resize-an-array"
+    },
+    {
+        "question": "What is an observable",
+        "link": "what-is-an-observable"
+    },
+    {
+        "question": "What is the difference between function and class declarations",
+        "link": "what-is-the-difference-between-function-and-class-declarations"
+    },
+    {
+        "question": "What is an async function",
+        "link": "what-is-an-async-function"
+    },
+    {
+        "question": "How do you prevent promises swallowing errors",
+        "link": "how-do-you-prevent-promises-swallowing-errors"
+    },
+    {
+        "question": "What is deno",
+        "link": "what-is-deno"
+    },
+    {
+        "question": "How do you make an object iterable in javascript",
+        "link": "how-do-you-make-an-object-iterable-in-javascript"
+    },
+    {
+        "question": "What is a Proper Tail Call",
+        "link": "what-is-a-proper-tail-call"
+    },
+    {
+        "question": "How do you check an object is a promise or not",
+        "link": "how-do-you-check-an-object-is-a-promise-or-not"
+    },
+    {
+        "question": "How to detect if a function is called as constructor",
+        "link": "how-to-detect-if-a-function-is-called-as-constructor"
+    },
+    {
+        "question": "What are the differences between arguments object and rest parameter",
+        "link": "what-are-the-differences-between-arguments-object-and-rest-parameter"
+    },
+    {
+        "question": "What are the differences between spread operator and rest parameter",
+        "link": "what-are-the-differences-between-spread-operator-and-rest-parameter"
+    },
+    {
+        "question": "What are the different kinds of generators",
+        "link": "what-are-the-different-kinds-of-generators"
+    },
+    {
+        "question": "What are the built-in iterables",
+        "link": "what-are-the-built-in-iterables"
+    },
+    {
+        "question": "What are the differences between for...of and for...in statements",
+        "link": "what-are-the-differences-between-for...of-and-for...in-statements"
+    },
+    {
+        "question": "How do you define instance and non-instance properties",
+        "link": "how-do-you-define-instance-and-non-instance-properties"
+    },
+    {
+        "question": "What is the difference between isNaN and Number.isNaN?",
+        "link": "what-is-the-difference-between-isnan-and-number.isnan"
+    },
+    {
+        "question": "How to invoke an IIFE without any extra brackets?",
+        "link": "how-to-invoke-an-iife-without-any-extra-brackets"
+    },
+    {
+        "question": "Is that possible to use expressions in switch cases?",
+        "link": "is-that-possible-to-use-expressions-in-switch-cases"
+    },
+    {
+        "question": "What is the easiest way to ignore promise errors?",
+        "link": "what-is-the-easiest-way-to-ignore-promise-errors"
+    },
+    {
+        "question": "How do style the console output using CSS?",
+        "link": "how-do-style-the-console-output-using-css"
+    },
+    {
+        "question": "What is nullish coalescing operator(??)?",
+        "link": "what-is-nullish-coalescing-operator-(??)"
+    },
+    {
+        "question": "How do you group and nest console output?",
+        "link": "how-do-you-group-and-nest-console-output"
+    },
+    {
+        "question": "What is the difference between dense and sparse arrays?",
+        "link": "what-is-the-difference-between-dense-and-sparse-arrays"
+    },
+    {
+        "question": "What are the different ways to create sparse arrays?",
+        "link": "what-are-the-different-ways-to-create-sparse-arrays"
+    },
+    {
+        "question": "What is the difference between setTimeout and setImmediate and process.nextTick?",
+        "link": "what-is-the difference-between-setTimeout-and-setImmediate-and-processnextTick"
+    }
+]
